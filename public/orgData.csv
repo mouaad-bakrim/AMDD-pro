@@ -1,0 +1,12 @@
+name,position,photo,id,parent
+Mohamed ITI,Président,1,president,
+Mohammed OULD_LAFNICHA,Vice Président,2,vicePresident,
+Abderrazzak SAMADI,Secrétaire Général,3,secretaireGeneral,president
+Zakaria BELHAOUS,Vice Secrétaire Général,4,viceSecretaireGeneral,president
+Mohamed MGHABAR,Trésorerie Générale,5,tresorerieGeneral,president
+Dalal LAMI,Vice-trésorerie,6,vicetresorerieGeneral,president
+Mohcine ESSAYEH,Conseil 1,7,consultant1,president
+Houssam ELMIR,Conseil 2,8,consultant2,president
+Youssef NAAMANE,Conseil 3,9,consultant3,president
+Brahim RAOUYANE,Conseil 4,10,consultant4,president
+Abderrahmane Ouhna,Conseil 5,11,consultant5,president

@@ -1,0 +1,19 @@
+id,name,parent,position,photo
+1,Committee 1,0,comite1,
+2,Committee 2,0,comite2,
+3,Committee 3,0,comite3,
+4,Committee 4,0,comite4,
+5,Committee 5,0,comite5,
+6,Committee 6,0,comite6,
+7,President 1,1,president,avatar1
+8,Adjoint 1,1,Adjoint,avatar2
+9,President 2,2,President,avatar3
+10,Adjoint 2,2,Adjoint,avatar4
+11,President 3,3,President,avatar5
+12,Adjoint 3,3,Adjoint,avatar6
+13,President 4,4,President,avatar7
+14,Adjoint 4,4,Adjoint,avatar8
+15,President 5,5,President,avatar9
+16,Adjoint 5,5,Adjoint,avatar10
+17,President 6,6,President,avatar11
+18,Adjoint 6,6,Adjoint,avatar12
